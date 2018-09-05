@@ -1,0 +1,29 @@
+---
+title: "RMarkdown Class Schedule"
+author: "your name here..."
+date: "September 5, 2018"
+output: html_notebook
+---
+
+# Class Schedule
+
+### PSU 016: First-Year Seminar
+
+This class is a chance for first-year students to get acclamated to college life.  Each department at Penn State has their own section(s) of PSU 016, so students can take the class with other first-year students in their major.  I enjoy teaching the first-year seminar because it's a great opportunity to me to get to know the new class of Statistics Majors!  This year I'm trying something different by assigning the book "How Not to Be Wrong" by Jordan Ellenberg.  It's a really great book about how I think statisticians/mathematicians see the world differently from most other people.  I hope the class actually enjoys it.
+
+For some reason I admit that I was a little surprised to find a Wikipedia page about first-year seminar classes at American Universities, but  [here's the link](https://en.wikipedia.org/wiki/The_First_Year_Experience_Program)!  The page doesn't currently have a picture, so a classic Penn State picture of Old Main seems as fitting as anything else.
+
+![](http://www.amesphotos.com/psu/old_main_penn_state.jpg)
+
+
+### STAT 184: Introduction to R Programmaing
+
+[your turn!]
+
+
+### [Additional Courses...]
+
+[your turn!]
+
+
+
