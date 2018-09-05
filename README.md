@@ -10,10 +10,10 @@
 
 This activity is worth a total of 10 points:
 
+- [1 point] you must have at least two "commits" in GitHub as you work through the assignment
 - [5 points] Submit working RMarkdown Notebook as an HTML document to Canvas
 - [1 point] Level 3 heading for each class (0.5 point if some classes have heading other than level 3)
 - [1 point] One or two sentences about why you're taking each class (0.5 point if one or more classes don't include any narrative)
 - [1 point] links to a webpage relevant to the class (e.g. Wikipedia; 0.5 point if some classes are missing a working link)   
 - [1 point] embed a relevant picture/figure (0.5 point if one or more classes are missing an embedded image)  
-- [1 point] you must have at least two "commits" in GitHub as you work through the assignment
 
