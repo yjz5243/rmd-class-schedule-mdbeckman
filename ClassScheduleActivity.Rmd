@@ -19,7 +19,8 @@ For some reason I admit that I was a little surprised to find a Wikipedia page a
 ### STAT 184: Introduction to R Programmaing
 
 [your turn!]
-
+This course is talk about R language. It is my require course for my major data science. I study python last year and I think R is interesting language that I want to learn it. 
+https://stat.psu.edu/education/syllabi/spring-2017/stat184syllabus.pdf/view
 
 ### [Additional Courses...]
 
