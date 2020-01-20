@@ -1,7 +1,7 @@
 ---
 title: "RMarkdown Class Schedule"
-author: "your name here..."
-date: "September 5, 2018"
+author: "YANGMING ZHANG"
+date: "January 19, 2020"
 output: html_notebook
 ---
 
@@ -19,11 +19,15 @@ For some reason I admit that I was a little surprised to find a Wikipedia page a
 ### STAT 184: Introduction to R Programmaing
 
 [your turn!]
-
+This class is introduce the R. I just take two hour right now. It is a require class for my major data science.
 
 ### [Additional Courses...]
 
 [your turn!]
+### CMPSC 132: Programmaing and Computer science
+This class is teach us python.I took CMPSC 131 last semester. It is both teach the python that a language such as R.
+### BA 301: FIANCE
+This class is talk about basic fiance knowledge such as stocks and business management. It is really useful class for me and really interesting. I learned trade between China and US in last week.
 
 
 
