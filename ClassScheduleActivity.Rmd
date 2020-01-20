@@ -29,4 +29,8 @@ https://stat.psu.edu/education/syllabi/spring-2017/stat184syllabus.pdf/view
 This course is talk about basic finance knowledge and some business management. Until now I learned trade between China and US. For the finance, country police decide the economisc growth.
 https://bulletins.psu.edu/university-course-descriptions/undergraduate/ba/
 
+### CMPSC 131: Programming and Computer Science
+This course is talk about python. Last semester I learned CMPSC 131 and it is a really interesting language. 
+https://bulletins.psu.edu/university-course-descriptions/undergraduate/cmpsc/
+
 
